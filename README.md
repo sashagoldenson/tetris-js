@@ -1,2 +1,2 @@
 # tetris-js
-A demo of tetris in JavaScript copied from the listed YouTube video.
+A basic demo of Tetris written in JavaScript, from the tutorial [here](https://www.youtube.com/watch?v=H2aW5V46khA) 
